@@ -1,0 +1,3 @@
+[submodule "MemoryManagement"]
+	path = MemoryManagement
+	url = git@github.com:Tek-EIP/MemoryManagement.git
